@@ -187,7 +187,7 @@ header nav .toggle-menu {
 /* end header */
 /* start landing */
 .landing {
-    background-image: url(/images/landing\ \(1\).jpg);
+    background-image: url(images/landing\ \(1\).jpg);
     position: relative;
     height: 100vh;
     background-size: cover;
@@ -328,7 +328,7 @@ header nav .toggle-menu {
 .design {
     padding-top: 80px;
     padding-bottom: 80px;
-    background-image: url(/images/design-features.jpg);
+    background-image: url(images/design-features.jpg);
     position: relative;
     height: 600px;
     background-size: cover;
@@ -515,7 +515,7 @@ header nav .toggle-menu {
 /* end about  */
 /* start stats  */
     .stats {
-        background-image: url(/images/stats.png);
+        background-image: url(images/stats.png);
         background-size: cover;
         padding-top: 80px;
         padding-bottom: 80px;
@@ -766,7 +766,7 @@ header nav .toggle-menu {
 .quote {
     padding-top: 80px;
     padding-bottom: 80px;
-    background-image: url(/images/quote.jpg);
+    background-image: url(images/quote.jpg);
     background-size: cover;
     position: relative;
     text-align: center;
@@ -905,7 +905,7 @@ header nav .toggle-menu {
 /* end pricing */
 /* start subscribe */
 .subscribe {
-    background-image: url(/images/subscribe.jpg);
+    background-image: url(images/subscribe.jpg);
     background-size: cover;
     padding-top: 60px;
     padding-bottom: 60px;
@@ -1056,7 +1056,7 @@ header nav .toggle-menu {
 
 /* start footer  */
 footer {
-    background-image: url(/images/subscribe.jpg);
+    background-image: url(images/subscribe.jpg);
     background-size: cover;
     position: relative;
     padding-top: 50px;

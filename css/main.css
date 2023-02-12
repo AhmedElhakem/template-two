@@ -187,7 +187,7 @@ header nav .toggle-menu {
 /* end header */
 /* start landing */
 .landing {
-    background-image: url(images/landing\ \(1\).jpg);
+    background-image: url(/images/landing\ \(1\).jpg);
     position: relative;
     height: 100vh;
     background-size: cover;
